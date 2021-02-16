@@ -5,7 +5,7 @@
 
 > Intensivão de Python 👨‍🏫
 
-> Aula 4 - o	Automação com integração web
+> Aula 4 - Automação com integração web
 
 > [Hashtag Programação](https://www.youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg)
 
